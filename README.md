@@ -24,3 +24,6 @@ Based on the data analysis, if Microsoft wants to produce high worldwide gross m
 
 
 [presentation (2).pdf](https://github.com/jguzzo522/project1/files/11659579/presentation.2.pdf)
+
+
+[Project 1.md](https://github.com/jguzzo522/project1/files/11659583/Project.1.md)
