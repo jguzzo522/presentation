@@ -27,6 +27,8 @@ In order to address these questions, it was important to breakdown the data of b
 
 ![image](https://github.com/jguzzo522/presentation/assets/75549456/3f759f67-296b-466f-adf0-c70cb80e94d8)
 
+## Recommendations
+
 Based on the data analysis, if Microsoft wants to produce high worldwide gross movies, I highly recommend that Microsoft considers making movies with a genre of Sci-Fi, Adventure, Animation and Action. I highly recommend that Microsoft Studios avoids movies such as news, war, history, western, documentary and musical movies. Investments should be made in longer-running movies with higher budgets. The higher grossing films are never short movies. A healthy budget of over 100 million dollars seems to be key to making a movie grossing over a billion dollars world wide. While this project was limited in scope, a suggestion of further analyzation of movie genre, and runtime combined may be interesting. For instance family animation movies, that produce high gross returns, may not need to be as long as an action film. In addition if Microsoft would like to make more movies with lower budgets, it may not be advisable for the studio to make action, or animation films due to the high cost of CGI. It may be a smarter business plan to make movies such as drama, romance and comedy if the studio is providing a smaller budget. However, more analyzation would need to be done to make this recommendation.
 
 
