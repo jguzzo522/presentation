@@ -17,3 +17,11 @@ What genre of movies are best for producing high grossing worldwide movies? What
 The graph shows that genres such as Action, Adventure and Sci-Fi are most likely to produce an outlier that may result in exstremely high grossing movies. Animation's median worldwide gross is also very high at around .25 Biliion. Based on this information I would recommend that Microsoft produce Animation, Action, Adventure, and Sci-Fi movies. Also based on this graph I would recommend that Microsoft avoids making news, war, history, western, documentary and musical movies. 
 
 [image](https://github.com/jguzzo522/presentation/assets/75549456/dc5c81b4-2290-4b88-b1f8-5a6f257c75af)
+
+Important questions regarding runtime:
+How long should a movie be to produce the highest possible worldwide gross?
+
+Based on the data provided from the combined databases, the optimal runtime should be over 120 minutes. In order to measure optimal runtime we broke the runtime catagory up into 3 subcatagoires. Short run time was defined as any movie running less than 60 minutes long. Medium runtime was any movie running between 60-120 minutes, and long runtime was anymovie running longer thant 120 minutes. There was not much diffrence between short and medium runtime movies. However, there were more outliers in medium runtime movies that produced movies that grossed upwards of a billion dollars. The shortrun time movies did not produce any movies grosssing over a billion dollars. Long runtime movies median value was around.20 billion dollars. In addtion many movies were outliers in this catagory, including many movies grossing over 1 billion dollars.
+
+![image](https://github.com/jguzzo522/presentation/assets/75549456/295a1048-e8fd-4bc0-aa45-50b6baa0a33c)
+
