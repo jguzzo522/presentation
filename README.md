@@ -1,5 +1,4 @@
-# README
-#Overview
+# Microsoft Movie Studios
 There is a new movie studio opening up called Microsoft Studios. In order to analyze important data we have analyzed two important datasets. The first data set "imdb", is a dataset with many valuable data points. Included in this movie database is movie basics, directors, known for, movie aka's, movie ratings, persons, principals, and writers. For the purposes of this project the focus was on movie basics. The subcategory in movie basics that were directly analyzed included runtime, and genre. In order to analyze this data SQL was initially used. The second database used was tn.movie_budgets.csv'. To import this data PANDAS was used. This data included budget, and worldwide gross. In order to completely analyze the data one database was created merging the imdb and tn.movie_budgets.csv.
 
 #Business Understanding
