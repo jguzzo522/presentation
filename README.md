@@ -7,6 +7,8 @@ In order to provide feedback to the Microsoft CEO, board and shareholders, proje
 # Data 
 In order to analyze important data we have analyzed two important datasets. The first data set "imdb", is a dataset with many valuable data points. Included in this movie database is movie basics, directors, known for, movie aka's, movie ratings, persons, principals, and writers. For the purposes of this project the focus was on movie basics. The subcategory in movie basics that were directly analyzed included runtime, and genre. In order to analyze this data SQL was initially used. The second database used was tn.movie_budgets.csv'. To import this data PANDAS was used. This data included budget, and worldwide gross. In order to completely analyze the data one database was created merging the imdb and tn.movie_budgets.csv.
 
+### Genre's impact on Worldwide Gross
+
 Important questions regarding these variables included the following: What genre of movies are best for producing high grossing worldwide movies? What movies genres fail to produce high grossing worldwide movies? The graph shows that genres such as Action, Adventure and Sci-Fi are most likely to produce an outlier that may result in extremely high grossing movies. Animation's median worldwide gross is also very high at around .25 Billion. Based on this information I would recommend that Microsoft produce Animation, Action, Adventure, and Sci-Fi movies. Also based on this graph I would recommend that Microsoft avoids making news, war, history, western, documentary and musical movies.
 
 ![image](https://github.com/jguzzo522/presentation/assets/75549456/8ac5671c-8f2d-4fc9-9a93-a75b649049f5)
