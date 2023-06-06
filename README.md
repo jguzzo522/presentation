@@ -13,11 +13,14 @@ Important questions regarding these variables included the following: What genre
 
 ![image](https://github.com/jguzzo522/presentation/assets/75549456/8ac5671c-8f2d-4fc9-9a93-a75b649049f5)
 
+### Movie runtime's impact on Worldwide gross
 
 Important questions regarding runtime: How long should a movie be to produce the highest possible worldwide gross?
 Based on the data provided from the combined databases, the optimal runtime should be over 120 minutes. In order to measure optimal runtime we broke the runtime category up into 3 subcategories. Short run time was defined as any movie running less than 60 minutes long. Medium runtime was any movie running between 60-120 minutes, and long runtime was any movie running longer than 120 minutes. There was not much difference between short and medium runtime movies. However, there were more outliers in medium runtime movies that produced movies that grossed upwards of a billion dollars. The short run time movies did not produce any movies grossing over a billion dollars. Long runtime movies median value was around.20 billion dollars. In addition many movies were outliers in this category, including many movies grossing over 1 billion dollars. Based on the data and the graph below, it is recommended that Microsoft invests in longer runtimes.
 
 ![image](https://github.com/jguzzo522/presentation/assets/75549456/3d1a77f8-0f31-4e8a-97e7-eac2cbdb8e2c)
+
+### Movie budget's impact on Worldwide Gross
 
 Important questions regarding budget: What type of budget creates the highest grossing films? Is there a big difference to justify larger budgets?
 In order to address these questions, it was important to breakdown the data of budgets into small (bellow 50 million dollars), medium (50-100 million dollars) and large (100+ million). As predicted small budgets produced the least grossing films. Small budget films median gross was less than .1 billion dollars. While the median gross for large budgeted films was around .5 billion dollars. Medium movies also did much better than small budget films, with a median gross value around .2 billion dollars. Not a single small budget film produced a billion dollar gross. There were a very small amount of medium sized budgets that produced a billion dollar gross. Large budget films produced several movies grossing over a billion dollars. Higher budget films also produced a few movies grossing over two billion dollars. Based on this analysis , large budget films are worth the investment.
