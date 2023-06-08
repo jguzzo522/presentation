@@ -1,4 +1,4 @@
-# Microsoft Movie Studios <span style="color: red;">This text will be red.</span>
+#  <span style="color: red;">Microsoft Movie Studios.</span>
 
  
 ## Goal
