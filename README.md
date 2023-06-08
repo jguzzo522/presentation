@@ -1,4 +1,4 @@
-#  <font color="red">Microsoft Movie Studios.</font>
+# Microsoft Movie Studios
 
  
 ## Goal
