@@ -7,8 +7,9 @@ In order to provide feedback to the Microsoft CEO, board and shareholders, proje
 
 # Data 
 In order to analyze important data we have analyzed two important datasets. The first data set "imdb", is a dataset with many valuable data points. Included in this movie database is movie basics, directors, known for, movie aka's, movie ratings, persons, principals, and writers. For the purposes of this project the focus was on movie basics. The subcategory in movie basics that were directly analyzed included runtime, and genre. In order to analyze this data SQL was initially used. The second database used was tn.movie_budgets.csv'. To import this data PANDAS was used. This data included budget, and worldwide gross. In order to completely analyze the data one database was created merging the imdb and tn.movie_budgets.csv.
-[im.db.zip"(]https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-4/blob/master/zippedData/im.db.zip)
-[tn.movie_budget]("https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-4/blob/master/zippedData/tn.movie_budgets.csv.gz)
+[im.db.zip](]https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-4/blob/master/zippedData/im.db.zip)
+
+[tn.movie_budget](https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-4/blob/master/zippedData/tn.movie_budgets.csv.gz)
 
 ### Genre's impact on Worldwide Gross
 
